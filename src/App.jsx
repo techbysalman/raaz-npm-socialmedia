@@ -17,19 +17,19 @@ function App() {
     {
       name: "WhatsApp",
       icon: <FaWhatsapp />,
-      url: "https://wa.me/917736228736",
+      url: "https://wa.me/919946320320",
       color: "#00b31e",
     },
     {
       name: "Instagram",
       icon: <FaInstagram />,
-      url: "https://www.instagram.com/raazholidays.puthiyangadi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      url: "https://www.instagram.com/raazholidays_nadapuram?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       color: "#e4405f",
     },
     {
       name: "Google Review",
       icon: <FaGoogle />,
-      url: "https://share.google/O6fs0maehpRIUapr5",
+      url: "https://share.google/WGMwL6Gx4kgGwm9MU",
       color: "#4285f4",
     },
     {
